@@ -4,7 +4,6 @@ import { nameGithub } from "./lib/data";
 export default function App() {
   const nama = useMemo(() => nameGithub, []);
   const name = useGithub(nama);
-  console.log(name);
   return (
     <div className="mt-10 justify-center flex flex-col items-center">
       <h1 className="text-2xl mb-4 font-bold text-gray-800 dark:text-white">
