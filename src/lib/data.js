@@ -65,4 +65,9 @@ export const nameGithub = [
   "Arf03",
   "Rafik632",
   "dekiwahyudi",
+  "ilzam22",
+  "husnolday",
+  "Dan100001",
+  "imamgz",
+  "alfytszhrh06",
 ];
