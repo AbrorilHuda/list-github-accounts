@@ -70,4 +70,7 @@ export const nameGithub = [
   "Dan100001",
   "imamgz",
   "alfytszhrh06",
+  "gilangpy",
+  "Rafaelardiansyahacumalaka",
+  "nbelaa",
 ];
